@@ -23,7 +23,8 @@
 > Css -
 
 ## Video:
-https://github.com/Hugo-BARNAS/Simple-PunchBag/issues/1#issue-737932661
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/57058997/98397359-8af18c80-205f-11eb-9156-2e3a349f0db0.gif)
+
 
 ## What I leaned and practiced :
 * Create a vue.js project
