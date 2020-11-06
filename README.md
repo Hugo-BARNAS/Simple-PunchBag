@@ -1,7 +1,7 @@
 
 
-![](https://img.shields.io/badge/Vue.js?logo=Vue.js&color=green)
 
+![](https://img.shields.io/badge/Vue.js-lightgrey?logo=Vue.js&color=lightgrey)
 
 <p>
 <img src="https://user-images.githubusercontent.com/57058997/96006114-6e39ae80-0e3d-11eb-8519-5edda4aeac1b.png" height="50">
