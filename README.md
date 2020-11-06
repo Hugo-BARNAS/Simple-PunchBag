@@ -23,7 +23,7 @@
 > Css -
 
 ## Video:
-
+https://github.com/Hugo-BARNAS/Simple-PunchBag/issues/1#issue-737932661
 
 ## What I leaned and practiced :
 * Create a vue.js project
